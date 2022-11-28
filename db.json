@@ -1,0 +1,41 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "name":"Vishwajeet",
+            "age":27,
+            "post":"This is a post"
+        },
+        {
+            "id":2,
+            "name":"Hemant Jain",
+            "age":29,
+            "post":"This is a post"
+        },
+        {
+            "id":3,
+            "name":"Vishwajeet",
+            "age":30,
+            "post":"This is a post"
+        },
+        {
+            "id":4,
+            "name":"Hemant Jain",
+            "age":32,
+            "post":"This is a post"
+        },
+        {
+            "id":5,
+            "name":"Akash",
+            "age":52,
+            "post":"This is a post"
+        },
+        {
+            "id":6,
+            "name":"Ajay Jain",
+            "age":14,
+            "post":"This is a post"
+        }
+        
+    ]
+}
