@@ -45,6 +45,13 @@
             "email":"admin@gmail.com",
             "password":"masai",
             "role":"admin"
+        },
+        {
+            "id":2,
+            "name":"Vishwajeet Haldar",
+            "email":"user@gmail.com",
+            "password":"masai",
+            "role":"user"
         }
     ]
 }
