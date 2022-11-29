@@ -37,5 +37,13 @@
             "post":"This is a post"
         }
         
+    ],
+    "users":[
+        {
+            "id":1,
+            "name":"Masai School",
+            "email":"admin@gmail.com",
+            "password":"masai"
+        }
     ]
 }
