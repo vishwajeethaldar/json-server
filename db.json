@@ -43,7 +43,8 @@
             "id":1,
             "name":"Masai School",
             "email":"admin@gmail.com",
-            "password":"masai"
+            "password":"masai",
+            "role":"admin"
         }
     ]
 }
